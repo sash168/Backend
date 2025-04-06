@@ -1,0 +1,3 @@
+# include files that u dont want to be shown
+.env
+node_modules
